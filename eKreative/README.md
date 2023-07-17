@@ -28,4 +28,4 @@ JS test task for lektorium by eKreative.
     - Кольори повинні бути приблизно схожі
     - Розміри відносно екрану приблизно
 
-![Screenshot of a comment...](2/form.jpg)
+![log form](2/form.jpg)
