@@ -18,7 +18,9 @@ JS test task for lektorium by eKreative.
 
     - Не використовувати зображень
     - Форма повинна бути відцентрована посередині сторінки
-    - Коли ти наводиш на поле вводу, checkbox, кнопку, чи силки (“forgot your password?”, “Use single-on...”, “Sign up”) повинен показувати палець (cursor: pointer)
+    - Коли ти наводиш на поле вводу, checkbox, кнопку, 
+    чи силки (“forgot your password?”, “Use single-on...”, “Sign up”)
+    повинен показувати палець (cursor: pointer)
     - “Forgot your password” - силка яка веде на google.com
     - “Use single-on…” - силка яка веде на google maps
     - “Sign up” - силка яка веде на facebook
