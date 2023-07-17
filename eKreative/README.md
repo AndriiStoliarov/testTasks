@@ -4,6 +4,8 @@ JS test task for lektorium by eKreative.
 ## Завдання 1
 Намалювати фігуру.
 
+![figure](1/figure.jpg)
+
 **Вимоги:**
 
     - Не використовувати картинок
@@ -13,6 +15,8 @@ JS test task for lektorium by eKreative.
 
 ## Завдання 2
 Зробити форму логіну (тільки дизайн).
+
+![log form](2/form.jpg)
 
 **Вимоги:**
 
@@ -27,5 +31,3 @@ JS test task for lektorium by eKreative.
     - Шрифти на вибір
     - Кольори повинні бути приблизно схожі
     - Розміри відносно екрану приблизно
-
-![log form](2/form.jpg)
