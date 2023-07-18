@@ -1,5 +1,5 @@
-# CS Ltd
-Test task for CS as the position of angular developer.
+# CS
+Test task for CS Ltd as the position of angular developer.
 
 ## task
 CRUD application for the registration of car owners.
