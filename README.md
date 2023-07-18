@@ -11,4 +11,4 @@ JS test task for lektorium by eKreative.
 Test task for SPD-University by SPD-Ukraine
 
 ## CS
-Test task for CS as the position of angular developer.
+Test task for CS Ltd as the position of angular developer.
