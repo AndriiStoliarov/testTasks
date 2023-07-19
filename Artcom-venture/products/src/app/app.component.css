@@ -1,0 +1,49 @@
+.title {
+  text-align: center;
+  padding-top: 10px;
+  font-weight: 500;
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card {
+  width: 49%;
+}
+
+.table-wrapper {
+  overflow-y: auto;
+}
+
+.table {
+  width: 100%;
+  border-spacing: 0;
+}
+
+.mat-column-position {
+  width: 32px;
+  padding-right: 24px;
+  text-align: center;
+}
+
+.text-color-green {
+  color: darkgreen;
+}
+
+.text-color-red {
+  color: darkred;
+}
+
+.row-is-clicked {
+  font-weight: bold;
+}
+
+.hidden {
+  opacity: 0;
+}
+
+.width-cell {
+  width: 50%;
+}
