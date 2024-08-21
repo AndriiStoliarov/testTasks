@@ -1,17 +1,20 @@
 # testTasks
 Miscellaneous test tasks.
 
-## Master-of-Code
-Test task for Masters Academy by Master of Code.
-
-## eKreative
-JS test task for lektorium by eKreative.
-
-## SPD-Ukraine
-Test task for SPD-University by SPD-Ukraine
+## Artcom-venture
+Test task for Artcom venture GmbH as the position of angular developer.
 
 ## CS
 Test task for CS Ltd as the position of angular developer.
 
-## Artcom-venture
-Test task for Artcom venture GmbH as the position of angular developer.
+## Master-of-Code
+Test task for Masters Academy by Master of Code.
+
+## SPD-Ukraine
+Test task for SPD-University by SPD-Ukraine.
+
+## eKreative
+JS test task for lektorium by eKreative.
+
+## ITOP1000
+Test task for ITOP1000 as the position of angular developer.
