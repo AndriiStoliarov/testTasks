@@ -1,0 +1,79 @@
+<section class="section">
+  <div class="container">
+    <mat-card class="card">
+      <mat-card-header>
+        <mat-card-title class="text-color-darkred">{{title}}</mat-card-title>
+        <mat-card-subtitle>{{subtitle}}</mat-card-subtitle>
+      </mat-card-header>
+
+      <mat-card-content class="card-content">
+        <ng-container *ngFor="let rate of rates | searchCurentRates">
+          <mat-card class="card-content__item">
+            <mat-card-header>
+              <mat-card-subtitle>{{ rate.cc }}</mat-card-subtitle>
+            </mat-card-header>
+            <mat-card-content>
+              {{ rate.rate | number:'2.1-2' }}
+            </mat-card-content>
+        </mat-card>
+        </ng-container>
+      </mat-card-content>
+      <mat-card-header>
+        <mat-card-subtitle>Сonverter</mat-card-subtitle>
+      </mat-card-header>
+
+      <form
+        [formGroup]="converterForm"
+        class="form"
+      >
+        <div formGroupName="leftFormFilds">
+          <mat-form-field class="form__item">
+            <mat-label>currency</mat-label>
+            <mat-select formControlName="leftCurrency">
+              <ng-container *ngFor="let currencyRate of currencyRates">
+                <mat-option [value]="currencyRate.cc">
+                  {{ currencyRate.cc }}
+                </mat-option>
+              </ng-container>
+            </mat-select>
+          </mat-form-field>
+
+          <mat-form-field class="form__item">
+            <mat-label>amount</mat-label>
+            <input
+              formControlName="leftAmount"
+              matInput
+              type="number"
+              min="0"
+              [value]="rightCurrentAmount | number:'1.1-2' | removeCommas"
+            >
+          </mat-form-field>
+        </div>
+
+        <div formGroupName="rightFormFilds">
+          <mat-form-field class="form__item">
+            <mat-label>currency</mat-label>
+            <mat-select formControlName="rightCurrency">
+              <ng-container *ngFor="let currencyRate of currencyRates">
+                <mat-option [value]="currencyRate.cc">
+                  {{ currencyRate.cc }}
+                </mat-option>
+              </ng-container>
+            </mat-select>
+          </mat-form-field>
+
+          <mat-form-field class="form__item">
+            <mat-label>amount</mat-label>
+            <input
+              formControlName="rightAmount"
+              matInput
+              type="number"
+              min="0"
+              [value]="leftCurrentAmount | number:'1.1-2' | removeCommas"
+            >
+          </mat-form-field>
+        </div>
+      </form>
+    </mat-card>
+  </div><!-- /.container -->
+</section>
