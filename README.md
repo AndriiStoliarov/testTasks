@@ -3,7 +3,7 @@ Miscellaneous test tasks.
 
 ## Artcom-venture
 Test task for Artcom venture GmbH as the position of angular developer.
-[GitHub Page]([https://www.youtube.com/watch?v=jU88mLuLWlk](https://andriistoliarov.github.io/testTasks/Artcom-venture/products/dist/products/index.html)).
+[GitHub Page](https://www.youtube.com/watch?v=jU88mLuLWlk](https://andriistoliarov.github.io/testTasks/Artcom-venture/products/dist/products/index.html).
 
 ## CS
 Test task for CS Ltd as the position of angular developer.
