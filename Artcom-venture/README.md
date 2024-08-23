@@ -2,7 +2,7 @@
 Test task for Artcom venture GmbH as the position of angular developer.
 
 # testTask
-ACVK Angular4 Test Task
+ACVK Angular4 Test Task. [GitHub Page](https://andriistoliarov.github.io/testTasks/Artcom-venture/products/dist/products/index.html).
 
 ## Make a new Angular application consisting of 1 component and 1 service.
 - The service should be used to to receive data from the DATA.json file. (included in this repo)
@@ -13,4 +13,6 @@ ACVK Angular4 Test Task
 - The information in the blocks should be displayed using the angular structural directives.
 - Block number two can be closed using the "Close" button, which should be located in the lower right corner of the second block.
 
-You can use the UI components library to improve the visual display of the task result
+You can use the UI components library to improve the visual display of the task result.
+
+[GitHub Page](https://andriistoliarov.github.io/testTasks/Artcom-venture/products/dist/products/index.html).
