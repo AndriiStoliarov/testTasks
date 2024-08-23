@@ -1,7 +1,7 @@
 # Artcom-venture
 Test task for Artcom venture GmbH as the position of angular developer.
 
-# testTask
+# task
 ACVK Angular4 Test Task. [GitHub Page](https://andriistoliarov.github.io/testTasks/Artcom-venture/products/dist/products/index.html).
 
 ## Make a new Angular application consisting of 1 component and 1 service.
