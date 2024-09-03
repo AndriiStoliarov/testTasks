@@ -1,4 +1,7 @@
 # SPD-Ukraine
-Test task for SPD-University by SPD-Ukraine
+Test task for SPD-University by SPD-Ukraine.
 
-[Тестове завдання для SPD-University курс Front-end-2021](task-front-end-2021.pdf)
+## task
+Необхідно створити Twitter Card UI. [GitHub Page](https://andriistoliarov.github.io/testTasks/SPD-Ukraine/twitter-card-ui/dist/twitter-card-ui/index.html).
+
+[Тестове завдання на курс Front-end-2021](task-front-end-2021.pdf)
