@@ -2,9 +2,7 @@
 Test task for Artcom venture GmbH as the position of angular developer.
 
 # task
-ACVK Angular4 Test Task. [GitHub Page](https://andriistoliarov.github.io/testTasks/Artcom-venture/products/dist/products/index.html).
-
-## Make a new Angular application consisting of 1 component and 1 service.
+**Make a new Angular application consisting of 1 component and 1 service.** [GitHub Page](https://andriistoliarov.github.io/testTasks/Artcom-venture/products/dist/products/index.html).
 - The service should be used to to receive data from the DATA.json file. (included in this repo)
 - In component you need request data using the service and display on page 2  blocks with the same size, half of the screen each.
 - In the first block need create a table with all elements received from  service should be displayed. The table displays the value of the "Name" field for each object.
