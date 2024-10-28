@@ -1,7 +1,7 @@
 # Artcom-venture
 Test task for Artcom venture GmbH as the position of angular developer.
 
-# task
+## task
 **Make a new Angular application consisting of 1 component and 1 service.**
 - The service should be used to to receive data from the DATA.json file. (included in this repo)
 - In component you need request data using the service and display on page 2  blocks with the same size, half of the screen each.
