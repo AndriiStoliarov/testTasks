@@ -13,4 +13,4 @@ Test task for Artcom venture GmbH as the position of angular developer.
 
 You can use the UI components library to improve the visual display of the task result.
 
-[GitHub Page](https://andriistoliarov.github.io/testTasks/Artcom-venture/products/dist/products/index.html).
+[GitHub Page](https://andriistoliarov.github.io/testTasks/Artcom-venture/products/dist/products/index.html)

@@ -2,9 +2,9 @@
 JS test task for lektorium by eKreative.
 
 ## Завдання 1
-Намалювати фігуру. [GitHub Page](https://andriistoliarov.github.io/testTasks/eKreative/1/index.html).
+Намалювати фігуру. [GitHub Page](https://andriistoliarov.github.io/testTasks/eKreative/task-1/index.html)
 
-![figure](1/figure.jpg)
+![figure](data/figure.jpg)
 
 **Вимоги:**
 - Не використовувати картинок
@@ -13,9 +13,9 @@ JS test task for lektorium by eKreative.
 - Адаптивний дизайн не потрібний
 
 ## Завдання 2
-Зробити форму логіну (тільки дизайн). [GitHub Page](https://andriistoliarov.github.io/testTasks/eKreative/2/index.html).
+Зробити форму логіну (тільки дизайн). [GitHub Page](https://andriistoliarov.github.io/testTasks/eKreative/task-2/index.html)
 
-![log form](2/form.jpg)
+![log form](data/form.jpg)
 
 **Вимоги:**
 - Не використовувати зображень
