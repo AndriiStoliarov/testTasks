@@ -10,11 +10,9 @@
 
 > **Note:** Test task for Artcom venture GmbH for the Angular Developer position.
 
----
-
 ## CS
 
-**CarOwners** (technical assessment project) - [GitHub Page](https://andriistoliarov.github.io/testTasks/CS/CarOwners/dist/CarOwners/index.html)
+**CarOwners** (technical assessment project) [GitHub Page](https://andriistoliarov.github.io/testTasks/CS/CarOwners/dist/CarOwners/index.html)
 
 - **Overview:** Single-page CRUD application designed for vehicle owner management.
 - **Technologies:** Angular, TypeScript, RxJS, Angular Material, Angular In-Memory Web API (angular-in-memory-web-api), HTML5, CSS3
@@ -22,13 +20,17 @@
 
 > **Note:** Test task for CS Ltd. for the Angular Developer position.
 
----
-
 ## ITOP1000
 
-Test task for ITOP1000 as the position of angular developer.
+**Currency converter** (technical assessment project) [GitHub Page](https://andriistoliarov.github.io/testTasks/ITOP1000/currency-converter/dist/currency-converter/browser/index.html)
 
-Сurrency converter. [GitHub Page](https://andriistoliarov.github.io/testTasks/ITOP1000/currency-converter/dist/currency-converter/browser/index.html)
+- **Overview:** Dynamic SPA designed for dual-way currency conversion with an intuitive UI.
+- **Technologies:** Angular, TypeScript, RxJS, Angular Material, HTML5, CSS3
+- **Contributions:** Integrated a public REST API using RxJS and Angular HttpClient to fetch and dynamically render real-time USD and EUR exchange rates against UAH. Implemented bi-directional currency conversion logic using Angular Reactive Forms and custom pipes for seamless recalculation and data formatting.
+
+> **Note:** Test task for ITOP1000 for the Angular Developer position.
+
+---
 
 ## Master-of-Code
 
