@@ -55,7 +55,7 @@ Twitter Card UI (entrance project/admission test) [GitHub Page](https://andriist
 **Task-1** (entrance project/admission test) [GitHub Page](https://andriistoliarov.github.io/testTasks/eKreative/task-1/index.html)
 
 - **Overview:** Static CSS layout consisting of six dice.
-- **Technologies:** HTML5, CSS3, Git, GitHub
+- **Technologies:** HTML5, CSS3, Git
 - **Contributions:** Positioned six dice using CSS Flexbox alignment properties. Published source code to GitHub for project hosting and review.
 
 > **Note:** Test task for Lektorium by eKreative.
@@ -65,7 +65,7 @@ Twitter Card UI (entrance project/admission test) [GitHub Page](https://andriist
 **Task-2** (entrance project/admission test) [GitHub Page](https://andriistoliarov.github.io/testTasks/eKreative/task-2/index.html)
 
 - **Overview:** Login form UI layout.
-- **Technologies:** JavaScript, HTML5, CSS3, Git, GitHub
+- **Technologies:** JavaScript, HTML5, CSS3, Git
 - **Contributions:** Built an image-free login form UI using pure HTML5 and CSS3 strictly following design specifications. Implemented custom input field validation using Vanilla JS. Published source code to GitHub for project hosting and review.
 
 > **Note:** Test task for Lektorium by eKreative.
