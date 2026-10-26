@@ -30,18 +30,42 @@
 
 > **Note:** Test task for ITOP1000 for the Angular Developer position.
 
----
-
 ## Master-of-Code
 
-Test task for Masters Academy by Master of Code. Add the entered text to the page. [GitHub Page](https://andriistoliarov.github.io/testTasks/Master-of-Code/index.html)
+**TestTask** (entrance project/admission test) [GitHub Page](https://andriistoliarov.github.io/testTasks/Master-of-Code/index.html)
+
+- **Overview:** Lightweight web app designed for adding user-entered text to the page.
+- **Technologies:** JavaScript, HTML5, CSS3, Git
+- **Contributions:** Developed a form with input validation and data output logic. Published source code to GitHub for project hosting and review.
+
+> **Note:** Test task for Masters Academy by Master of Code.
 
 ## SPD-Ukraine
 
-Test task for SPD-University by SPD-Ukraine. Need to create a Twitter Card UI. [GitHub Page](https://andriistoliarov.github.io/testTasks/SPD-Ukraine/twitter-card-ui/dist/twitter-card-ui/index.html)
+Twitter Card UI (entrance project/admission test) [GitHub Page](https://andriistoliarov.github.io/testTasks/SPD-Ukraine/twitter-card-ui/dist/twitter-card-ui/index.html)
+
+- **Overview:** Interactive Twitter Card UI component demonstrating state management and reactive follower count tracking.
+- **Technologies:** Angular, TypeScript, JavaScript, HTML5, CSS3, Git
+- **Contributions:** Created the UI card layout strictly following design specifications. Engineered followers counter logic and real-time button state toggling, implemented in both Vanilla JavaScript and Angular using event handling.
+
+> **Note:** Test task for SPD-University by SPD-Ukraine.
 
 ## eKreative
 
-JS test task for lektorium by eKreative.
-Draw a figure. [GitHub Page](https://andriistoliarov.github.io/testTasks/eKreative/task-1/index.html)
-Create a login form (design only). [GitHub Page](https://andriistoliarov.github.io/testTasks/eKreative/task-2/index.html)
+**Task-1** (entrance project/admission test) [GitHub Page](https://andriistoliarov.github.io/testTasks/eKreative/task-1/index.html)
+
+- **Overview:** Static CSS layout consisting of six dice.
+- **Technologies:** HTML5, CSS3, Git, GitHub
+- **Contributions:** Positioned six dice using CSS Flexbox alignment properties. Published source code to GitHub for project hosting and review.
+
+> **Note:** Test task for Lektorium by eKreative.
+
+---
+
+**Task-2** (entrance project/admission test) [GitHub Page](https://andriistoliarov.github.io/testTasks/eKreative/task-2/index.html)
+
+- **Overview:** Login form UI layout.
+- **Technologies:** JavaScript, HTML5, CSS3, Git, GitHub
+- **Contributions:** Built an image-free login form UI using pure HTML5 and CSS3 strictly following design specifications. Implemented custom input field validation using Vanilla JS. Published source code to GitHub for project hosting and review.
+
+> **Note:** Test task for Lektorium by eKreative.
