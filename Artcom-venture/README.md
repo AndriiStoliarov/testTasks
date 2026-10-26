@@ -2,7 +2,7 @@
 
 ## products
 
-[Тестове завдання](data/testTask.pdf)
+![Тестове завдання](data/testTask.pdf)
 
 **Make a new Angular application consisting of 1 component and 1 service.**
 
