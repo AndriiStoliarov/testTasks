@@ -44,7 +44,7 @@
 
 Twitter Card UI (entrance project/admission test) [GitHub Page](https://andriistoliarov.github.io/testTasks/SPD-Ukraine/twitter-card-ui/dist/twitter-card-ui/index.html)
 
-- **Overview:** Interactive Twitter Card UI component demonstrating state management and reactive follower count tracking.
+- **Overview:** Interactive Twitter Card UI component.
 - **Technologies:** Angular, TypeScript, JavaScript, HTML5, CSS3, Git
 - **Contributions:** Created the UI card layout strictly following design specifications. Engineered followers counter logic and real-time button state toggling, implemented in both Vanilla JavaScript and Angular using event handling.
 
