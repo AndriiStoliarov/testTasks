@@ -2,4 +2,4 @@
 
 ## products
 
-[Test task](data/ArtcomVenture-frontend.jpg)
+![Test task](data/ArtcomVenture-frontend.jpg)
