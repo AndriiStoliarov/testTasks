@@ -1,9 +1,10 @@
 # CS
 
-Test task for CS Ltd as the position of angular developer.
+## CarOwners
 
-## task
+[GitHub Page](https://andriistoliarov.github.io/testTasks/CS/CarOwners/dist/carOwners/index.html)
 
-CRUD application for the registration of car owners. [GitHub Page](https://andriistoliarov.github.io/testTasks/CS/CarOwners/dist/CarOwners/index.html)
+[Test task](data/test-task-angular-developer.pdf)
 
-[Тестовое задание](test-task-angular-developer.pdf)
+![Test task](data/CS-angular-page-1.jpg)
+![Test task](data/CS-angular-page-2.jpg)
