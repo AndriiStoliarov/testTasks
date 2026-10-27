@@ -2,7 +2,7 @@
 
 ## products
 
-![Тестове завдання](data/testTask.pdf)
+![Test task](data/ArtcomVenture-frontend.jpg)
 
 **Make a new Angular application consisting of 1 component and 1 service.**
 
