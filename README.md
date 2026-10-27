@@ -12,7 +12,7 @@
 
 ## CS
 
-**CarOwners** (technical assessment project) [GitHub Page](https://andriistoliarov.github.io/testTasks/CS/CarOwners/dist/CarOwners/index.html)
+**CarOwners** (technical assessment project) [GitHub Page](https://andriistoliarov.github.io/testTasks/CS/carOwners/dist/carOwners/index.html)
 
 - **Overview:** Single-page CRUD application designed for vehicle owner management.
 - **Technologies:** Angular, TypeScript, RxJS, Angular Material, Angular In-Memory Web API (angular-in-memory-web-api), HTML5, CSS3
