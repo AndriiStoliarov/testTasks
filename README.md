@@ -32,7 +32,7 @@
 
 ## Master-of-Code
 
-**TestTask** (entrance project/admission test) [GitHub Page](https://andriistoliarov.github.io/testTasks/Master-of-Code/index.html)
+**TestTask** (entrance project/admission test) [GitHub Page](https://andriistoliarov.github.io/testTasks/Master-of-Code/textStyler/index.html)
 
 - **Overview:** Lightweight web app designed for adding user-entered text to the page.
 - **Technologies:** JavaScript, HTML5, CSS3, Git
