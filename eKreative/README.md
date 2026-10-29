@@ -7,7 +7,4 @@
 ## task-2
 
 ![Test task page 2](data/eKreative-fronend-page-2.jpg)
-
----
-
 ![Test task page 3](data/eKreative-fronend-page-3.jpg)
